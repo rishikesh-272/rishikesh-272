@@ -7,8 +7,7 @@
 
 ### 🧠 About Me
 
-- 💻 Currently building skills in **Data Analysis**, **Flutter App Development**, and **Cybersecurity**  
-- 🔍 Exploring system-level development with **8085 Assembly**  
+- 💻 Currently building skills in **Data Analysis**, **Flutter App Development**, and **Cybersecurity**    
 - 🌱 Always learning & contributing to open-source projects  
 - 🎯 Goal: Become **job-ready** and build impactful tech solutions
 
@@ -20,8 +19,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -31,8 +28,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=default" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishikesh-272&show_icons=true&theme=default" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishikesh-272&layout=compact&theme=default" height="180px" />
 </p>
 
 ---
