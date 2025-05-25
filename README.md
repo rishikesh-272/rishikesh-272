@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Rishikesh Mohite</h1>
 <p align="center">
-  🚀 Tech Explorer | 🐍 Pythonista | 📊 Aspiring Data Analyst | 📱 Flutter Dev | 🛡️ Cybersecurity Learner  
+  🚀 Tech Explorer | 🐍 Pythonista | 📊 Aspiring Data Analyst   
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 Currently building skills in **Data Analysis**, **Flutter App Development**, and **Cybersecurity**    
+- 💻 Currently building skills in **Data Analysis**
 - 🌱 Always learning & contributing to open-source projects  
 - 🎯 Goal: Become **job-ready** and build impactful tech solutions
 
@@ -16,8 +16,6 @@
 ### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,9 +42,8 @@
 
 ### 🧭 Current Focus
 
-- 🧹 Cleaning and analyzing real-world data  
-- 📱 Developing responsive cross-platform apps with Flutter  
-- 🛡️ Practicing cybersecurity skills via TryHackMe & labs  
+- 🧹 Cleaning and analyzing real-world data
+   
 - ✨ Open to collaboration and learning from the community
 
 ---
